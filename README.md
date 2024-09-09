@@ -1,4 +1,4 @@
-# Hi there 👋
+# Wassup 👋
 
 ## My name is Dylan White. I am a junior majoring in geology and oceanography at UNCW. 
 
