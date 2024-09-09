@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-# My name is Dylan White. I am a junior majoring in geology and oceanography at UNCW. 
+## My name is Dylan White. I am a junior majoring in geology and oceanography at UNCW. 
 
 <!--
 **dylan9081/dylan9081** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
